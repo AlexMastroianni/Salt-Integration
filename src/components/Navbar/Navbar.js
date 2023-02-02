@@ -1,8 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import './Navbar.css';
+// import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function NavBar() {
   return (
@@ -17,17 +16,17 @@ function NavBar() {
             <Nav className="me-auto">
               <li>
                 <link to="projects"></link>
-                <Nav.Link href="Projects">Projects</Nav.Link>
+                <Nav.Link href="Projects">Services</Nav.Link>
               </li>
-              <Nav.Link href="Resume">Resume</Nav.Link>
-              <NavDropdown title="Links" id="basic-nav-dropdown">
+              <Nav.Link href="Resume">Projects</Nav.Link>
+              {/* <NavDropdown title="Links" id="basic-nav-dropdown">
                 <NavDropdown.Item href="https://github.com/AlexMastroianni">
                   Github
                 </NavDropdown.Item>
                 <NavDropdown.Item href="https://www.linkedin.com/in/alex-mastroianni/">
                   Linkedin
                 </NavDropdown.Item>
-              </NavDropdown>
+              </NavDropdown> */}
             </Nav>
           </Navbar.Collapse>
         </Container>

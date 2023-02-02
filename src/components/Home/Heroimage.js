@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from '../Home/images/AvatarMaker.svg';
-import './homepage.css';
 
 import { Typewriter } from 'react-simple-typewriter';
 
@@ -18,30 +16,32 @@ function Heroimage() {
                 fontWeight: 'bold',
               }}
             >
-              My names Alex and here is what I do {''}
+              Salt - {''}
               <span style={{ color: 'Purple', fontWeight: 'normal' }}>
                 {/* Style will be inherited from the parent element */}
                 <Typewriter
                   words={[
-                    'Front-end',
-                    'Back-end',
-                    'Development',
-                    'Software Engineering',
+                    'Smart Home Consulting',
+                    'Home Office Design',
+                    'Home Networking',
+                    'IoT',
                   ]}
                   loop={8}
                   cursor
                   cursorStyle="_"
                   typeSpeed={110}
                   deleteSpeed={70}
-                  delaySpeed={1000}
+                  delaySpeed={4000}
                 />
               </span>
             </h1>
           </div>
         </div>
         <div class="col"></div>
-        <div class="col">
-          <img src={logo} alt="HeroImg" />
+        <div className="col slogan">
+          <h2>
+            Simplifying a <strong className="keyword">Smart Home</strong>
+          </h2>
         </div>
       </div>
     </div>
