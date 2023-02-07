@@ -50,7 +50,7 @@ function About() {
           />
           <Carousel.Caption>
             <h5>Video Meetings & Content Creation Lighting</h5>
-            <p>Have the Perfect Lighting and background setup</p>
+            <p>Have an intersting and dynamic background and lighting</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -58,7 +58,7 @@ function About() {
           <img className="d-block w-100" src={IoT} alt="Internet of Things" />
           <Carousel.Caption>
             <h5>Internet Of Things</h5>
-            <p>Combine the soft and the hard</p>
+            <p>Get Everything Connected</p>
           </Carousel.Caption>
         </Carousel.Item>
 
