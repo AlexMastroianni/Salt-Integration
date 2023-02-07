@@ -56,3 +56,24 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.blurbText1 {
+  padding-top: 30px;
+  margin-left: 400px;
+  margin-right: 400px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.blurbHeader2 {
+  padding-top: 200px;
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+/* .stripe {
+  margin: 3px;
+  border: 1px solid black;
+} */

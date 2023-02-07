@@ -24,7 +24,8 @@ function About() {
           <Carousel.Caption>
             <h5>Smart Home Understanding</h5>
             <p>
-              Understand the in & outs, Have all the infomation without the bias
+              Understand the in & outs, Have all the information without the
+              bias
             </p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -65,14 +66,14 @@ function About() {
           <img className="d-block w-100" src={Tv} alt="Smart Entertainment" />
           <Carousel.Caption>
             <h5>Smart Entertainment</h5>
-            <p>The Knowledge to design and upset an amazing experiance</p>
+            <p>The Knowledge to design and upset an amazing experience</p>
           </Carousel.Caption>
         </Carousel.Item>
 
         <Carousel.Item>
           <img className="d-block w-100" src={desksetup} alt="Home Office " />
           <Carousel.Caption>
-            <h5>Home Office Optimisation and Design</h5>
+            <h5>Home Office Optimization and Design</h5>
             <p>The setup for getting stuff done</p>
           </Carousel.Caption>
         </Carousel.Item>
