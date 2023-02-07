@@ -1,31 +1,25 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
+import smarthome from './images/smart-home.jpg';
+import smartlighting from './images/smart-lighting.jpeg';
+import homeoffice from './images/home-office-setup.jpg';
+import IoT from './images/IOT.jpg';
+import Tv from './images/backlit-tv.webp';
+import desksetup from './images/desk-setup.jpg';
+import networking from './images/networking.jpg';
 
 function About() {
   return (
     <>
       <section className="container text-center">
-        <div class="row aboutMeContainer">
-          <article className="aboutMe">
-            <h2>Services</h2>
-            <ul>
-              <li>Video Meetings & Content Creation Lighting</li>
-              <li>Smart Entertainment</li>
-              <li>Internet Of Things</li>
-              <li>Home Audio Design</li>
-              <li>Networking</li>
-              <li>Smart Lighting</li>
-              <li>Home Office Optimisation and Design</li>
-            </ul>
-          </article>
-        </div>
+        <div class="row aboutMeContainer"></div>
       </section>
-      <Carousel variant="dark">
+      <Carousel id="services" variant="dark">
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="holder.js/800x400?text=First slide&bg=f5f5f5"
-            alt="First slide"
+            src={smarthome}
+            alt="Smart Home Understaning"
           />
           <Carousel.Caption>
             <h5>Smart Home Understanding</h5>
@@ -34,50 +28,64 @@ function About() {
             </p>
           </Carousel.Caption>
         </Carousel.Item>
+
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="holder.js/800x400?text=Second slide&bg=eee"
-            alt="Second slide"
+            src={smartlighting}
+            alt="Smart Lighting"
           />
           <Carousel.Caption>
-            <h5>Smart Entertainment</h5>
-            <p>The Knowledge to design and upset an amazing experiance</p>
+            <h5>Smart Lighting</h5>
+            <p>Take control of all the lighting in your room</p>
           </Carousel.Caption>
         </Carousel.Item>
+
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="holder.js/800x400?text=Third slide&bg=e5e5e5"
-            alt="Third slide"
-          />
-          <Carousel.Caption>
-            <h5>Internet Of Things</h5>
-            <p>Combine the soft and the hard</p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src="holder.js/800x400?text=Third slide&bg=e5e5e5"
-            alt="Third slide"
+            src={homeoffice}
+            alt="Video/Content Production"
           />
           <Carousel.Caption>
             <h5>Video Meetings & Content Creation Lighting</h5>
             <p>Have the Perfect Lighting and background setup</p>
           </Carousel.Caption>
         </Carousel.Item>
+
+        <Carousel.Item>
+          <img className="d-block w-100" src={IoT} alt="Internet of Things" />
+          <Carousel.Caption>
+            <h5>Internet Of Things</h5>
+            <p>Combine the soft and the hard</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+
+        <Carousel.Item>
+          <img className="d-block w-100" src={Tv} alt="Smart Entertainment" />
+          <Carousel.Caption>
+            <h5>Smart Entertainment</h5>
+            <p>The Knowledge to design and upset an amazing experiance</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+
+        <Carousel.Item>
+          <img className="d-block w-100" src={desksetup} alt="Home Office " />
+          <Carousel.Caption>
+            <h5>Home Office Optimisation and Design</h5>
+            <p>The setup for getting stuff done</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="holder.js/800x400?text=Third slide&bg=e5e5e5"
-            alt="Third slide"
+            src={networking}
+            alt="Home Networking"
           />
           <Carousel.Caption>
-            <h5>Third slide label</h5>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
+            <h5>Home Networking</h5>
+            <p>Fast and Secure WIFI at all times</p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>

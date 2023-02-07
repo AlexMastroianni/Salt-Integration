@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Typewriter } from 'react-simple-typewriter';
 
-function Heroimage() {
+function Homepage() {
   return (
     <div className="HeroImg">
       <div className="row align-items-center p-4 m-3">
@@ -48,4 +48,4 @@ function Heroimage() {
   );
 }
 
-export default Heroimage;
+export default Homepage;

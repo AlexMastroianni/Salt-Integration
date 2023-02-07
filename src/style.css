@@ -42,3 +42,17 @@ img {
 .slogan {
   padding-right: 50px;
 }
+
+.aboutMeContainer {
+  padding-top: 350px;
+}
+
+img {
+  object-fit: cover;
+}
+
+.blurbHeader {
+  padding-top: 300px;
+  display: flex;
+  justify-content: center;
+}
