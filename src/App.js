@@ -9,27 +9,24 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
 
 const App = () => {
-  const [loading, setLoading] = useState(true);
+  // const [loading, setLoading] = useState(true);
 
-  const spinner = document.getElementById('spinner');
-  if (spinner) {
-    setTimeout(() => {
-      spinner.style.display = 'none';
-      setLoading(false);
-    }, 2000);
-    return (
-      !loading && (
-        <>
-          <NavBar />
-          <HomePage />
-          <Blurb />
-          <About />
-          <Stripe />
-          <Footer />
-        </>
-      )
-    );
-  }
+  // const spinner = document.getElementById('spinner');
+  // if (spinner) {
+  //   setTimeout(() => {
+  //     spinner.style.display = 'none';
+  //     setLoading(false);
+  //   }, 2000);
+  return (
+    <>
+      <NavBar />
+      <HomePage />
+      <Blurb />
+      <About />
+      <Stripe />
+      <Footer />
+    </>
+  );
 };
 
 export default App;

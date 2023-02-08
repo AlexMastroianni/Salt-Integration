@@ -1,6 +1,6 @@
 {
   "homepage": "https://www.saltsmarthomes.com/ ",
-  "name": "portfolio",
+  "name": "salt-smart-homes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
