@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/%20/static/css/main.ab8984ff.css",
-    "main.js": "/%20/static/js/main.f7df4622.js",
+    "main.js": "/%20/static/js/main.4d8f385b.js",
     "static/media/desk-setup.jpg": "/%20/static/media/desk-setup.4e9a6a073f27fc92ca65.jpg",
     "static/media/smart-home.jpg": "/%20/static/media/smart-home.f60029f396383737d673.jpg",
     "static/media/networking.jpg": "/%20/static/media/networking.07168558660b997c3ab9.jpg",
@@ -11,10 +11,10 @@
     "static/media/backlit-tv.webp": "/%20/static/media/backlit-tv.995edc32afb3e1fcbb5f.webp",
     "index.html": "/%20/index.html",
     "main.ab8984ff.css.map": "/%20/static/css/main.ab8984ff.css.map",
-    "main.f7df4622.js.map": "/%20/static/js/main.f7df4622.js.map"
+    "main.4d8f385b.js.map": "/%20/static/js/main.4d8f385b.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8984ff.css",
-    "static/js/main.f7df4622.js"
+    "static/js/main.4d8f385b.js"
   ]
 }
