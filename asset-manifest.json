@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Salt-Integration%20/static/css/main.ab8984ff.css",
-    "main.js": "/Salt-Integration%20/static/js/main.2da4345a.js",
-    "static/media/desk-setup.jpg": "/Salt-Integration%20/static/media/desk-setup.4e9a6a073f27fc92ca65.jpg",
-    "static/media/smart-home.jpg": "/Salt-Integration%20/static/media/smart-home.f60029f396383737d673.jpg",
-    "static/media/networking.jpg": "/Salt-Integration%20/static/media/networking.07168558660b997c3ab9.jpg",
-    "static/media/home-office-setup.jpg": "/Salt-Integration%20/static/media/home-office-setup.029637872dc598d68654.jpg",
-    "static/media/smart-lighting.jpeg": "/Salt-Integration%20/static/media/smart-lighting.5ec0da05757c823a9273.jpeg",
-    "static/media/IOT.jpg": "/Salt-Integration%20/static/media/IOT.c5fb5a87fd6504364662.jpg",
-    "static/media/backlit-tv.webp": "/Salt-Integration%20/static/media/backlit-tv.995edc32afb3e1fcbb5f.webp",
-    "index.html": "/Salt-Integration%20/index.html",
-    "main.ab8984ff.css.map": "/Salt-Integration%20/static/css/main.ab8984ff.css.map",
-    "main.2da4345a.js.map": "/Salt-Integration%20/static/js/main.2da4345a.js.map"
+    "main.css": "/www.saltsmathomes.com/static/css/main.ab8984ff.css",
+    "main.js": "/www.saltsmathomes.com/static/js/main.17695a45.js",
+    "static/media/desk-setup.jpg": "/www.saltsmathomes.com/static/media/desk-setup.4e9a6a073f27fc92ca65.jpg",
+    "static/media/smart-home.jpg": "/www.saltsmathomes.com/static/media/smart-home.f60029f396383737d673.jpg",
+    "static/media/networking.jpg": "/www.saltsmathomes.com/static/media/networking.07168558660b997c3ab9.jpg",
+    "static/media/home-office-setup.jpg": "/www.saltsmathomes.com/static/media/home-office-setup.029637872dc598d68654.jpg",
+    "static/media/smart-lighting.jpeg": "/www.saltsmathomes.com/static/media/smart-lighting.5ec0da05757c823a9273.jpeg",
+    "static/media/IOT.jpg": "/www.saltsmathomes.com/static/media/IOT.c5fb5a87fd6504364662.jpg",
+    "static/media/backlit-tv.webp": "/www.saltsmathomes.com/static/media/backlit-tv.995edc32afb3e1fcbb5f.webp",
+    "index.html": "/www.saltsmathomes.com/index.html",
+    "main.ab8984ff.css.map": "/www.saltsmathomes.com/static/css/main.ab8984ff.css.map",
+    "main.17695a45.js.map": "/www.saltsmathomes.com/static/js/main.17695a45.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8984ff.css",
-    "static/js/main.2da4345a.js"
+    "static/js/main.17695a45.js"
   ]
 }
