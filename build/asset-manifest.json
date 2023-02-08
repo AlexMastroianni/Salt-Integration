@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f07e6e8e.css",
-    "main.js": "/Portfolio/static/js/main.681bef75.js",
-    "static/media/AvatarMaker.svg": "/Portfolio/static/media/AvatarMaker.8fa410a456b322146978deb861ee770a.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.f07e6e8e.css.map": "/Portfolio/static/css/main.f07e6e8e.css.map",
-    "main.681bef75.js.map": "/Portfolio/static/js/main.681bef75.js.map"
+    "main.css": "/Salt-Integration/static/css/main.ab8984ff.css",
+    "main.js": "/Salt-Integration/static/js/main.9b4c6d0e.js",
+    "static/media/desk-setup.jpg": "/Salt-Integration/static/media/desk-setup.4e9a6a073f27fc92ca65.jpg",
+    "static/media/smart-home.jpg": "/Salt-Integration/static/media/smart-home.f60029f396383737d673.jpg",
+    "static/media/networking.jpg": "/Salt-Integration/static/media/networking.07168558660b997c3ab9.jpg",
+    "static/media/home-office-setup.jpg": "/Salt-Integration/static/media/home-office-setup.029637872dc598d68654.jpg",
+    "static/media/smart-lighting.jpeg": "/Salt-Integration/static/media/smart-lighting.5ec0da05757c823a9273.jpeg",
+    "static/media/IOT.jpg": "/Salt-Integration/static/media/IOT.c5fb5a87fd6504364662.jpg",
+    "static/media/backlit-tv.webp": "/Salt-Integration/static/media/backlit-tv.995edc32afb3e1fcbb5f.webp",
+    "index.html": "/Salt-Integration/index.html",
+    "main.ab8984ff.css.map": "/Salt-Integration/static/css/main.ab8984ff.css.map",
+    "main.9b4c6d0e.js.map": "/Salt-Integration/static/js/main.9b4c6d0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f07e6e8e.css",
-    "static/js/main.681bef75.js"
+    "static/css/main.ab8984ff.css",
+    "static/js/main.9b4c6d0e.js"
   ]
 }
