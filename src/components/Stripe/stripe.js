@@ -14,9 +14,11 @@ function stripe(props) {
                 Book a free 10 min discovery call to ensure we can help with
                 your problem risk free.
               </p>
-              <a href="https://calendly.com/alex-m-mastroianni/45-min-smart-home-consult">
+              <a href="https://calendly.com/alex-m-mastroianni/10-min-discovery-meeting">
                 {' '}
-                <button>Book Now</button>
+                <button type="button" class="btn btn-success">
+                  Book Now
+                </button>
               </a>
             </div>
           </div>
@@ -27,6 +29,12 @@ function stripe(props) {
                 Go over your ideas and concepts. Get multiple solutions discuss
                 options. Get a cost breakdown so you are in the ball park.
               </p>
+              <a href="https://calendly.com/alex-m-mastroianni/45-min-smart-home-consult">
+                {' '}
+                <button type="button" class="btn btn-success">
+                  Book Now
+                </button>
+              </a>
             </div>
           </div>
           <div class="col stripe">
@@ -38,6 +46,12 @@ function stripe(props) {
                 isn't making sense, get a clear understanding and resolve the
                 issue.
               </p>
+              <a href="https://calendly.com/alex-m-mastroianni/1-hr-trouble-shooting">
+                {' '}
+                <button type="button" class="btn btn-success">
+                  Book Now
+                </button>
+              </a>
             </div>
           </div>
         </div>
@@ -47,10 +61,3 @@ function stripe(props) {
 }
 
 export default stripe;
-
-//   <a href="https://calendly.com/alex-m-mastroianni/45-min-smart-home-consult">
-//     Button
-//   </a>
-//   <a href="https://calendly.com/alex-m-mastroianni/45-min-smart-home-consult">
-//     Button
-//   </a>
