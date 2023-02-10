@@ -8,7 +8,7 @@ function NavBar() {
     <nav>
       <Navbar className="position-absolute top-0 start-50 translate-middle-x">
         <Container className="Nav">
-          <Navbar.Brand href="Home">
+          <Navbar.Brand>
             <strong>Salt Smart Home</strong>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

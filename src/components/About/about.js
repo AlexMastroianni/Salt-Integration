@@ -24,8 +24,7 @@ function About() {
           <Carousel.Caption>
             <h5>Smart Home Understanding</h5>
             <p>
-              Understand the in & outs, Have all the information without the
-              bias
+              Understand the Tech, Have all the information without the bias
             </p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -38,7 +37,7 @@ function About() {
           />
           <Carousel.Caption>
             <h5>Smart Lighting</h5>
-            <p>Take control of all the lighting in your room</p>
+            <p>Set the Mood and Take control of all the lighting in the room</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -50,7 +49,7 @@ function About() {
           />
           <Carousel.Caption>
             <h5>Video Meetings & Content Creation Lighting</h5>
-            <p>Have an intersting and dynamic background and lighting</p>
+            <p>Have an engaging and dynamic background with perfect lighting</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -58,7 +57,7 @@ function About() {
           <img className="d-block w-100" src={IoT} alt="Internet of Things" />
           <Carousel.Caption>
             <h5>Internet Of Things</h5>
-            <p>Get Everything Connected</p>
+            <p>Everything is Connected</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -66,7 +65,7 @@ function About() {
           <img className="d-block w-100" src={Tv} alt="Smart Entertainment" />
           <Carousel.Caption>
             <h5>Smart Entertainment</h5>
-            <p>The Knowledge to design and upset an amazing experience</p>
+            <p>Create a new space for viewing all content</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -74,7 +73,7 @@ function About() {
           <img className="d-block w-100" src={desksetup} alt="Home Office " />
           <Carousel.Caption>
             <h5>Home Office Optimization and Design</h5>
-            <p>The setup for getting stuff done</p>
+            <p>A clear desk is a clear mind</p>
           </Carousel.Caption>
         </Carousel.Item>
 

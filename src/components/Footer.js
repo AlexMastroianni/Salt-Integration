@@ -5,7 +5,7 @@ function Footer() {
     <footer className="text-center text-white p-6">
       <div className="text-center text-dark p-3 mt-5">
         © 2020 Copyright:
-        <p className="text-dark">Salt Media</p>
+        <p className="text-dark">Salt Integration</p>
       </div>
     </footer>
   );
